@@ -232,5 +232,5 @@ flat = matrix.flatten()
 3. **`@` for matrix multiplication, `*` for element-wise** — getting these confused causes silent wrong results, not error messages.
 
 ### Next Steps
-- **Post-Class:** Complete the [post-class.md](./post-class.md) — 7 NumPy practice exercises covering arrays, masking, broadcasting, and linear algebra (45–60 min).
+- **Post-Class:** Complete the [assignment.md](./assignment.md) — 7 NumPy practice exercises covering arrays, masking, broadcasting, and linear algebra (45–60 min).
 - **Next Lesson:** Lesson 1.7 introduces Pandas — a higher-level library built on NumPy that adds labelled indexing, mixed data types, and table-like operations.
